@@ -1,4 +1,4 @@
-Accompanying Youtube video: https://youtu.be/s1_vb4N5AdM
+Accompanying Youtube video: https://youtu.be/Nae_XcGd2hU
 
 requirements.txt > Python dependencies
 
